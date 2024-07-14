@@ -6,7 +6,6 @@ A web based Hospital Patient Record Management System project.
 * Patient Appointment 
 * Doctor Prescription
 * Billing
-* 
 * Patient Login
 * Doctor Login
 * Employee Login
@@ -18,7 +17,7 @@ A web based Hospital Patient Record Management System project.
 * Authentication provided using JWT
 
 ### Instruction
-* Clone This Repo https://github.com/arijitiiest/Hospital-Management-System
+* Clone This Repo https://github.com/skn5335/istcapstone.git
 * Configure your utils/db.js file accordingly
 * run 
   ``` bash
